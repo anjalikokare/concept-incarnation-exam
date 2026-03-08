@@ -2,5 +2,5 @@
     "prompt": "A hyper-realistic cinematic photograph of a master gardener meticulously clipping a deep green garden hedge into an extremely complex, jagged, nonsensical shape. When viewed from the side, it is clear the hedge is being shaped to perfectly match the chaotic, temporary silhouette of a nearby pile of scrap metal's shadow. The scene is set in a sun-drenched formal garden. The gardener is so focused on the jagged edges of the shadow that the overall hedge is becoming structurally ruined. No text, no charts, no labels. 1024px short side.",
     "model": "DALL·E 3 (via ChatGPT PLUS)",
     "concept": "Overfitting",
-    "metaphor": "A gardener clipping a hedge to match an irregular, temporary shadow cast by scrap metal. The gardener is so focused on the jagged 'noise' of the shadow that the hedge becomes over-complex and unusable."
+    "metaphor": "A gardener clips a hedge to match a jagged, temporary shadow. By fitting to environmental noise, the hedge's overall structural truth is lost to extreme local complexity."
 }
